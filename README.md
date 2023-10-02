@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-[![Slideep's GitHub stats](https://github-readme-stats.vercel.app/api?username=slideep)](https://github.com/anuraghazra/github-readme-stats)
-
 - 🔭 I’m currently working on stuff.
 - 🌱 I’m currently learning stuff.
 
